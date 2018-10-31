@@ -1,0 +1,37 @@
+#book-stock-div {
+  width: 65%;
+  min-height: 80vh;
+}
+
+#cart-div {
+  width: 35%;
+  border-left: solid;
+}
+
+input[type="text"] {
+  width: 500px;
+}
+
+.search-row {
+  width: 100%
+}
+
+.card {
+  width: 95%
+}
+
+.App {
+  height:100%
+}
+
+.sm-text {
+  font-size: small;
+}
+
+.btn {
+  font-size: small;
+}
+
+.book-info {
+  align-items: center;
+}
